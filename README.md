@@ -4,8 +4,6 @@ Argentine nationalized Italian. I started working in the IT industry at the age 
   
 At the age of 19 I had the opportunity to start making my first steps as a software developer and from that moment HTML, CSS and JavaScript have become my best friends.
 
-Now, at the age of 24, I traveled to Italy to get my Italian citizenship and tour the country where my family's history began.
-
 <br>
 
 <img width="70px" 
