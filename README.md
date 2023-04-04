@@ -1,4 +1,4 @@
-**Hi, I'm Luca Francesco Caparelli. I'm a software developer**
+**Hi, I'm Luca Francesco Caparelli 👋🤓  I'm a software developer**
 
 Argentine nationalized Italian. I started working in the IT industry at the age of 18 as a software tester.
   
